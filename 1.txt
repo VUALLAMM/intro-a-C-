@@ -1,0 +1,2 @@
+Primero, dentro de Main, pongo una variable que se llama edad y le doy un número, por ejemplo 25. Después hago otra que se llama nombre, y ahí escribo un nombre entre comillas, como "Ana". Por último, creo una que se llama tieneLicencia, que solo puede ser verdadero o falso, y le pongo por ejemplo true si tiene licencia.
+
