@@ -1,0 +1,16 @@
+// Declarar variables
+edad = 25
+nombre = "Ana"
+tieneLicencia = true
+
+// Ver si la persona puede conducir
+Si edad es mayor o igual a 18 entonces
+    mostrar nombre + " puede conducir"
+Sino
+    mostrar nombre + " es menor de edad"
+
+// Ver si tiene licencia
+Si tieneLicencia es igual a verdadero entonces
+    mostrar nombre + " tiene licencia"
+Sino
+    mostrar nombre + " no tiene licencia"
